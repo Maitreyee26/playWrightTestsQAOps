@@ -1,0 +1,18 @@
+{
+    "dataset": [
+    {
+        "userName": "jDoe@gmail.com",
+        "password": "Learning123",
+        "productName": "ZARA COAT 3",
+        "countryName": "India",
+        "countryCode": "Ind"
+    },
+    {
+        "userName": "jDoey@gmail.com",
+        "password": "Maitreyee00",
+        "productName": "ADIDAS ORIGINAL",
+        "countryName": "Guinea",
+        "countryCode": "Gui"
+    }
+]
+}

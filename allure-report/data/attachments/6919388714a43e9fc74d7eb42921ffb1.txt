@@ -1,0 +1,5 @@
+{
+  success: true,
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI5MzUsImVtYWlsIjoiam9obkRvZUBnbWFpbC5jb20iLCJpYXQiOjE3OTAyMzE0NzcsImV4cCI6MTc5MDgzNjI3N30.Z7DXgOrsD3MJm6qI4pz0K0XlKRvjA0xfRg86bkDRRHU',
+  user: { id: 2935, email: 'johnDoe@gmail.com' }
+}
